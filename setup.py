@@ -8,7 +8,7 @@ from setuptools import find_packages
 
 
 setup(
-    name='django-password-reset',
+    name='django-password-reset-ispm',
     version=__import__('password_reset').__version__,
     author='Bruno Renie',
     author_email='bruno@renie.fr',
@@ -16,7 +16,7 @@ setup(
     include_package_data=True,
     url='https://github.com/brutasse/django-password-reset',
     license='BSD licence, see LICENSE file',
-    description='Class-based views for password reset.',
+    description='Class-based views for password reset. ISPM version, captcha merged',
     long_description=open('README.rst').read(),
     install_requires=[
         'Django>=1.4',
