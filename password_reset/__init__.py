@@ -1,1 +1,1 @@
-__version__ = '0.8.2_ispm'
+__version__ = '0.8.2.pre.1'

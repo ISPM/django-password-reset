@@ -15,7 +15,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     url='https://github.com/ISPM/django-password-reset',
-    download_url='https://github.com/ISPM/django-password-reset/tarball/0.8.2_ipsm',
+    download_url='https://github.com/ISPM/django-password-reset/tarball/0.8.2.pre.1',
     license='BSD licence, see LICENSE file',
     description='Class-based views for password reset. ISPM version, captcha merged',
     long_description=open('README.rst').read(),
